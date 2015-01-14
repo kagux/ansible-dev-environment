@@ -1,0 +1,11 @@
+galaxy_info:
+  author: "Boris Mikhaylov"
+  description: "vim, tmux, oh-my-zsh and dotfiles via homesick"
+  platforms: []
+  categories:
+    - system
+    - development
+  dependencies:
+    - kagux.oh_my_zsh
+    - trinitronx.tmux
+    - ANXS.vim

@@ -1,0 +1,11 @@
+- name: clone dotfiles
+  shell: bash -lc "homesick clone {{dotfiles_repo}}"
+  sudo: no
+
+- name: link dotfiles
+  shell: bash -lc "homesick link {{dotfiles_repo_name}} --force"
+  sudo: no
+
+- name: run post-install script
+  shell: bash -lc "homesick rc {{dotfiles_repo_name}} --force"
+  sudo: no

@@ -1,0 +1,11 @@
+- name: install required packages
+  apt: name={{item}} state=present
+  with_items:
+    - cmake
+    - python-dev
+
+- name: install required gems
+  gem: name={{item}} state=present user_install=no
+  with_items:
+    - tmuxinator
+    - homesick
