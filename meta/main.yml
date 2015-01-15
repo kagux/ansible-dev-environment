@@ -7,5 +7,6 @@ galaxy_info:
     - development
   dependencies:
     - kagux.oh_my_zsh
+    - kagux.silversearcher_ag
     - trinitronx.tmux
     - ANXS.vim

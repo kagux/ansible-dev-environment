@@ -1,2 +1,0 @@
-- name: install silversearcher
-  apt: name=silversearcher-ag state=present

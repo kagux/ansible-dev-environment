@@ -1,3 +1,2 @@
 - include: install_requirements.yml
-- include: install_silversearcher.yml
 - include: install_dotfiles.yml
