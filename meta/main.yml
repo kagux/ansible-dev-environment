@@ -5,8 +5,8 @@ galaxy_info:
   categories:
     - system
     - development
-  dependencies:
-    - kagux.oh_my_zsh
-    - kagux.silversearcher_ag
-    - trinitronx.tmux
-    - ANXS.vim
+dependencies:
+  - kagux.oh_my_zsh
+  - kagux.silversearcher_ag
+  - trinitronx.tmux
+  - ANXS.vim
