@@ -6,7 +6,8 @@ galaxy_info:
     - system
     - development
 dependencies:
+  - kbrebanov.pip
   - kagux.oh_my_zsh
   - kagux.silversearcher_ag
   - trinitronx.tmux
-  - ANXS.vim
+  - mwilliammyers.neovim
