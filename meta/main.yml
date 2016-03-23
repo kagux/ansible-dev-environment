@@ -1,5 +1,6 @@
 galaxy_info:
   author: "Boris Mikhaylov"
+  license: "MIT"
   description: "vim, tmux, oh-my-zsh and dotfiles via homesick"
   platforms: []
   categories:
