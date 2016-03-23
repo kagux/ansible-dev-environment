@@ -7,6 +7,7 @@ galaxy_info:
     - development
 dependencies:
   - kbrebanov.pip
+  - bastly.pythondev
   - kagux.oh_my_zsh
   - kagux.silversearcher_ag
   - trinitronx.tmux
