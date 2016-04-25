@@ -6,6 +6,7 @@
 
 - name: install required gems
   gem: name={{item}} state=present user_install=no
+  become: yes
   with_items:
     - tmuxinator
     - homesick
