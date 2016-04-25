@@ -12,4 +12,4 @@ dependencies:
   - kagux.oh_my_zsh
   - kagux.silversearcher_ag
   - trinitronx.tmux
-  - mwilliammyers.neovim
+  - kagux.neovim
